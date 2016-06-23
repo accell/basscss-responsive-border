@@ -25,6 +25,10 @@
   }
 
   .lg-border-none { border: 0 }
+  .lg-border-top-none { border-top: 0 }
+  .lg-border-right-none { border-right: 0 }
+  .lg-border-bottom-none { border-bottom: 0 }
+  .lg-border-left-none { border-left: 0 }
 
   .lg-rounded { border-radius: var(--border-radius) }
   .lg-circle  { border-radius: 50% }
